@@ -1,5 +1,5 @@
 {
-  "name": "create-react-app",
+  "name": "create-tsie-react-app",
   "version": "3.4.1",
   "keywords": [
     "react"
@@ -23,7 +23,7 @@
     "yarn.lock.cached"
   ],
   "bin": {
-    "create-react-app": "./index.js"
+    "create-tsie-react-app": "./index.js"
   },
   "dependencies": {
     "chalk": "4.0.0",
